@@ -8,7 +8,7 @@ function Navbar() {
       <h1 className='logo' >ANUJ</h1>
       <ul className='nav-menu'>
         <li>HOME</li>
-        <li>ABOUT ME</li>
+        <li>ABOUT</li>
         <li>SERVICES</li>
         <li>PORTFOLIO</li>
         <li>CONTACT</li>
