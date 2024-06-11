@@ -1,0 +1,50 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px 170px;
+  gap: 15vw;
+}
+
+.logo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-menu {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 46px;
+  font-size: 20px;
+}
+
+.nav-menu li:hover {
+  opacity: 80%;
+  cursor: pointer;
+}
+
+.nav-connect {
+  padding: 20px 40px;
+  border-radius: 50px;
+  background: #A91D3A;
+  color: white;
+  width: fit-content;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.nav-connect button {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+
+.nav-connect button:hover {
+  background-color: #9c263e;
+}
+
+.nav-connect button:active {
+  background-color: #ff2f59;
+}
