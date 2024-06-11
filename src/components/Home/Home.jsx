@@ -5,7 +5,7 @@ import profile_img from '../../assets/DP.jpg'
 function Home() {
   return (
     <div className='home'>
-      <img src={profile_img} alt="" width={300} height={300} />
+      <div className='image' src={profile_img} alt="" width={300} height={300}></div>
       <h1><span>I'm Anuj Samdariya,</span> Fullstack Developer from Jabalpur, Madhya Pradesh</h1>
       <p>I am a newbie exploring various domains, solving problems approaching them with a fresh perspective!</p>
       <div className='home-action'>

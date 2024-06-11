@@ -5,9 +5,13 @@
   gap: 25px;
 }
 
-.home img {
+.image {
+  background-image: url(../../assets/DP.jpg);
   margin-top: 150px;
   border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  background-size: contain; /* or cover */
 }
 
 .home h1 {
