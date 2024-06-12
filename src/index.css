@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+::selection {
+  background: #6c6c6c;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -25,6 +29,10 @@ body {
   height: 100vh;
   background-color: #151515;
   color: white;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
 
 h1 {

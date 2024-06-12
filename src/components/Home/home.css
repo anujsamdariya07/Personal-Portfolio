@@ -22,10 +22,7 @@
 }
 
 .home h1 span {
-  background: #A91D3A;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #A91D3A;
 }
 
 .home p {
