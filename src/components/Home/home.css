@@ -40,6 +40,26 @@
   margin-bottom: 50px;
 }
 
+.home-action a {
+  text-decoration: none;
+  color: #EEE;
+}
+
+.home-action a:hover {
+  text-decoration: none;
+  color: #EEE;
+}
+
+.home-action a:active {
+  text-decoration: none;
+  color: #EEE;
+}
+
+.home-action a:focus {
+  text-decoration: none;
+  color: #EEE;
+}
+
 .home-connect {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 10px 20px;

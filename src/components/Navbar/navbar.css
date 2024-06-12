@@ -35,6 +35,26 @@
   cursor: pointer;
 }
 
+.nav-connect a {
+  text-decoration: none;
+  color: #EEE;
+}
+
+.nav-connect a:hover {
+  text-decoration: none;
+  color: #EEE;
+}
+
+.nav-connect a:active {
+  text-decoration: none;
+  color: #EEE;
+}
+
+.nav-connect a:focus {
+  text-decoration: none;
+  color: #EEE;
+}
+
 .nav-connect button:hover {
   background-color: #9c263e;
 }

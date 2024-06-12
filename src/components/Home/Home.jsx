@@ -8,7 +8,9 @@ function Home() {
       <h1><span>I'm Anuj Samdariya,</span> Fullstack Developer from Jabalpur, Madhya Pradesh</h1>
       <p>I am a newbie exploring various domains, solving problems approaching them with a fresh perspective!</p>
       <div className='home-action'>
-        <button className="home-connect">Connect With Me</button>
+        <button className="home-connect">
+          <a href="https://www.linkedin.com/in/anuj-samdariya-569162254/" target='_blank'>Connect With Me</a>
+        </button>
         <button className="home-resume">My Resume</button>
       </div>
     </div>
