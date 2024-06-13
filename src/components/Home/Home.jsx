@@ -11,7 +11,7 @@ function Home() {
         <button className="home-connect">
           <a href="https://www.linkedin.com/in/anuj-samdariya-569162254/" target='_blank'>Connect With Me</a>
         </button>
-        <button className="home-resume"><a href="">My Resume</a></button>
+        <button className="home-resume">My Resume</button>
       </div>
     </div>
   )
