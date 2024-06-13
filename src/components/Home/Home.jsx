@@ -3,7 +3,7 @@ import './home.css'
 
 function Home() {
   return (
-    <div className='home'>
+    <div className='home' id='home'>
       <div className='image' ></div>
       <h1><span>I'm Anuj Samdariya,</span> Fullstack Developer from Jabalpur, Madhya Pradesh</h1>
       <p>I am a newbie exploring various domains, solving problems approaching them with a fresh perspective!</p>

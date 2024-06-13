@@ -1,9 +1,11 @@
 .navbar {
+  /* position: fixed; */
   display: flex;
   align-items: center;
   justify-content: space-around;
-  margin: 20px 170px;
+  padding: 20px 170px;
   gap: 15vw;
+  background-color: #151515;
 }
 
 .logo {
@@ -17,6 +19,17 @@
   list-style: none;
   gap: 46px;
   font-size: 20px;
+}
+
+.nav-menu a {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+.nav-menu a:hover {
+  color: #EEEEEE;
+  opacity: 80%;
+  cursor: pointer;
 }
 
 .nav-menu li:hover {

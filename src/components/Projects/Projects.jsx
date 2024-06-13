@@ -4,7 +4,7 @@ import arrow_icon from '../../assets/arrow_icon.svg'
 
 function Projects() {
   return (
-    <div className='projects'>
+    <div className='projects' id='projects'>
       <div className="projects-title">
         <h1>My Projects</h1>
       </div>

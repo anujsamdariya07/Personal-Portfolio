@@ -6,7 +6,7 @@ import call_icon from '../../assets/call_icon.svg'
 
 function Contact() {
   return (
-    <div className='contact'>
+    <div className='contact' id='contact'>
       <div className='contact-title'>
         <h1>Get In Touch</h1>
       </div>
