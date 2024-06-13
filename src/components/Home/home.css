@@ -81,3 +81,41 @@
   font-size: 24px;
   cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+  .home {
+    width: 768px;
+  }
+  .image {
+    background-image: url(../../assets/DP.jpg);
+    margin-bottom: 120px;
+    width: 200px;
+    height: 200px;
+    padding-right: 100px;
+  }
+  .home h1 {
+    margin-top: 50px;
+    width: 90%;
+    font-size: 50px;
+  }
+  .home p {
+    width: 60%;
+    font-size: 28px;
+    line-height: 32px;
+    margin: 10px 0;
+  }
+  .home-action {
+    gap: 16px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 50px;
+  }
+  .home-connect {
+    padding: 20px 30px;
+    border-radius: 40px;
+  }
+  .home-resume {
+    padding: 20px 50px;
+    border-radius: 40px;
+  }
+}
