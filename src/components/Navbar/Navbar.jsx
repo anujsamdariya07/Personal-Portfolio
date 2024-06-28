@@ -15,7 +15,7 @@ function Navbar() {
   }
 
   return (
-    <div className='navbar'>
+    <div className='navbar unselectable'>
       <h1 className='logo' >ANUJ</h1>
       <img src={menu_open} onClick={openMenu} alt="" className='nav-mob-open' />
       <ul ref={menuRef} className='nav-menu'>

@@ -4,7 +4,7 @@ import user_icon from '../../assets/user_icon.svg'
 
 function Footer() {
   return (
-    <div className='footer'>
+    <div className='footer unselectable'>
       <div className="footer-top">
         <div className="footer-top-left">
           <h1>ANUJ</h1>

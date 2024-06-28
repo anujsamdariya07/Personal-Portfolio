@@ -64,17 +64,12 @@ function About() {
       </div>
       <div className="about-achievements">
         <div className="about-achievement">
-          <h1>70+</h1>
+          <h1>100+</h1>
           <p>PROBLEMS SOLVED IN LEETCODE</p>
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>10+</h1>
-          <p>PROBLEMS SOLVED IN GFG</p>
-        </div>
-        <hr />
-        <div className="about-achievement">
-          <h1>10+</h1>
+          <h1>20+</h1>
           <p>PROBLEMS SOLVED IN GFG</p>
         </div>
         <hr />
